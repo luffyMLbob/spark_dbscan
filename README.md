@@ -20,3 +20,6 @@ Learn more about:
  I was glad to receive contributions from other people and I'd like to say thank you:
  * Mark Geraty - for fixing a bug with Java RDDs;
  * [@agrinh](https://github.com/agrinh) - for adding compatibility with Spark 1.1.0
+
+
+ gooddone
